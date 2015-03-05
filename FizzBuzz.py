@@ -11,6 +11,4 @@ def FizzBuzz():
             list.append(i)
     print list
 
-#FizzBuzz()
-
-print 4.5//2
+FizzBuzz()
