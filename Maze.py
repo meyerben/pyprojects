@@ -128,12 +128,3 @@ while True:
         MoveLeft(map)
     else:
         break
-        
-'''
-echo "# pyprojects" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/meyerben/pyprojects.git
-git push -u origin master
-'''
